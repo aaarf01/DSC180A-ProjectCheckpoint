@@ -58,4 +58,9 @@ run.sh      runs everything in order
 - MATLAB `bootci` defaults to BCa intervals; we use percentile intervals.
 
 ## AI and Human Contributions
-We used Claude (Opus 5.5) to assist with replication and coding. Team members reviewed and ran the code, compared outputs with the published results, and interpreted discrepancies. The team is responsible for the final code and conclusions.
+
+- AI: Claude (Opus 5.5) generated scripts to process the original study’s data and reproduced its analysis and figures, and assisted with debugging and revising the replication code.
+
+- Humans: Team members selected replication scope/procedure, reviewed and ran the code, compared outputs from Claude code with the published results, and investigated and interpreted discrepancies; responsible for topics, data sources, and content of the written report.
+
+- Testing: Validation included comparing reproduced figures and numerical results with those reported in the paper. Most reproduced results generally aligned with the published findings, while remaining discrepancies and data availability limitations are documented in the report.
