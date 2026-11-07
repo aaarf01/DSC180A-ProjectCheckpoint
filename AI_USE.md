@@ -42,4 +42,7 @@ Your goal is to replicate everything described in the paper to the greatest exte
 1. data files: I have attached `data_insitu_v2_25-04.csv and `the six `genomic_OCmatchups_v3_medians_*.csv` files ending in 1p, 3p, 5p, 1d, 2d, 5d; please verify if those are the correct files you need. And let me know if you need other files
 2. MATLAB: I have matlab locally on my laptop for later analysis. For the later MATLAB analyses, approximately how much disk space will I need for the downloaded data, intermediate files, and outputs? Please distinguish between using the authors’ processed data and reprocessing the raw satellite data.
 
+### Prompt 4:
+Compare our reproduced Figures 4 A-C and their numerical results with the original paper. Identify which panels and statistics agree, which differ, and which could not be reproduced. Report the size of numerical discrepancies where possible.
+
 
