@@ -1,0 +1,170 @@
+{
+ "nomask grid points": [
+  22468.0,
+  "20822"
+ ],
+ "nomask median seasonal SS frac": [
+  0.5328603737986095,
+  "0.59 (\"59% of the variance\")"
+ ],
+ "nomask median interannual SS frac": [
+  0.06299798093799863,
+  "-"
+ ],
+ "nomask area-wt mean seasonal frac": [
+  0.49956126063831374,
+  "-"
+ ],
+ "nomask EOF1-4 %": [
+  58.89658865411136,
+  "59.4"
+ ],
+ "nomask EOF5-8 %": [
+  4.168428818813766,
+  "4.2"
+ ],
+ "nomask EOF1-8 %": [
+  63.065017472925135,
+  "63.6"
+ ],
+ "nomask median theta trend /yr": [
+  -0.0012251692625238762,
+  "-1.3e-3"
+ ],
+ "nomask area-wt frac theta trend<0": [
+  0.5687324857591198,
+  "-"
+ ],
+ "nomask SST warming area frac": [
+  0.8871810810050872,
+  "0.89"
+ ],
+ "nomask SST warming frac, unweighted": [
+  0.8886416236425138,
+  "0.89"
+ ],
+ "nomask median SST trend C/yr": [
+  0.023411975597685538,
+  "2.3e-2"
+ ],
+ "nomask SST change over period, C": [
+  0.4312902008871325,
+  "0.43"
+ ],
+ "nomask EOF SST 1-8 %": [
+  92.54936851963586,
+  "89.7"
+ ],
+ "nomask EOF SST ratio (5-8)/(1-4)": [
+  0.019077562198347726,
+  "~1:4 claimed"
+ ],
+ "nomask EOF theta ratio (5-8)/(1-4)": [
+  0.07077538638602938,
+  "~1:4 claimed"
+ ],
+ "nomask r season dSST vs dtheta": [
+  -0.4270646963945592,
+  "-0.51"
+ ],
+ "nomask r annual dSST vs dtheta": [
+  -0.20202023336119998,
+  "-0.23"
+ ],
+ "nomask N season": [
+  269616.0,
+  "354240"
+ ],
+ "nomask N annual": [
+  449360.0,
+  "590400"
+ ],
+ "nomask r trend theta vs trend SST": [
+  -0.19081796880122429,
+  "not in text"
+ ],
+ "mask grid points": [
+  20828.0,
+  "20822"
+ ],
+ "mask median seasonal SS frac": [
+  0.5472131986407905,
+  "0.59 (\"59% of the variance\")"
+ ],
+ "mask median interannual SS frac": [
+  0.061115728427312416,
+  "-"
+ ],
+ "mask area-wt mean seasonal frac": [
+  0.5087400080397224,
+  "-"
+ ],
+ "mask EOF1-4 %": [
+  59.758481342053166,
+  "59.4"
+ ],
+ "mask EOF5-8 %": [
+  4.182436992172383,
+  "4.2"
+ ],
+ "mask EOF1-8 %": [
+  63.94091833422555,
+  "63.6"
+ ],
+ "mask median theta trend /yr": [
+  -0.0013923050397891574,
+  "-1.3e-3"
+ ],
+ "mask area-wt frac theta trend<0": [
+  0.5790982720919334,
+  "-"
+ ],
+ "mask SST warming area frac": [
+  0.8804085364122198,
+  "0.89"
+ ],
+ "mask SST warming frac, unweighted": [
+  0.8820818129441137,
+  "0.89"
+ ],
+ "mask median SST trend C/yr": [
+  0.022864682309560267,
+  "2.3e-2"
+ ],
+ "mask SST change over period, C": [
+  0.41980064809528084,
+  "0.43"
+ ],
+ "mask EOF SST 1-8 %": [
+  91.90531855185273,
+  "89.7"
+ ],
+ "mask EOF SST ratio (5-8)/(1-4)": [
+  0.021090419642394477,
+  "~1:4 claimed"
+ ],
+ "mask EOF theta ratio (5-8)/(1-4)": [
+  0.06998901073526988,
+  "~1:4 claimed"
+ ],
+ "mask r season dSST vs dtheta": [
+  -0.5135092431763245,
+  "-0.51"
+ ],
+ "mask r annual dSST vs dtheta": [
+  -0.2227706050632411,
+  "-0.23"
+ ],
+ "mask N season": [
+  249936.0,
+  "354240"
+ ],
+ "mask N annual": [
+  416560.0,
+  "590400"
+ ],
+ "mask r trend theta vs trend SST": [
+  -0.2282998393795638,
+  "not in text"
+ ]
+}

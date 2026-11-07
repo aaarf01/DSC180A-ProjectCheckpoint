@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+matplotlib
+statsmodels
+netCDF4
+# R 4.2 with randomForest 4.7-1.1 and pdp (see README)

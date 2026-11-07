@@ -1,0 +1,25 @@
+trait,gene,r,p,n,status
+Nitrile,nitC,,,0,not in published gene table
+Nitrile,nitD,,,0,not in published gene table
+Nitrile,hypA,,,0,not in published gene table
+Nitrile,hypB,,,0,not in published gene table
+Cyanate,cynA,-0.42771661213305123,9.381053741691633e-50,1091,available
+Cyanate,cynB,,,0,not in published gene table
+Cyanate,cynD,,,0,not in published gene table
+Cyanate,cynS,-0.2949514572038423,2.4365461750992718e-23,1091,available
+Nitrate,narB,-0.25805999499895943,4.670749679927139e-18,1091,available
+Nitrate,napA,-0.2944869629814605,2.8730826126500576e-23,1091,available
+Nitrate,nirA2,,,0,not in published gene table
+Nitrate,narX,,,0,not in published gene table
+Urea,ureA,0.10181638445481371,0.0007573616536374524,1091,available
+Urea,ureB,0.0439130280034853,0.14719897135132365,1091,available
+Urea,ureC,0.11440210186622377,0.0001525741965353872,1091,available
+Urea,ureD,-0.15619475083231799,2.1590010634730022e-07,1091,available
+Urea,ureE,-0.11453468309344697,0.0001498852826011427,1091,available
+Urea,ureF,-0.13835556507972793,4.501747039719994e-06,1091,available
+Urea,urtA,-0.13502465785247958,7.630407615969269e-06,1091,available
+Urea,speB,-0.28598213356174823,5.567282127063819e-22,1091,available
+Nitrite,nirA,-0.27307513035554165,4.133389053533338e-20,1091,available
+Nitrite,focA,0.20217374003307845,1.5847485719634306e-11,1091,available
+Ammonia,amt1,-0.03927761705673084,0.19485007835995585,1091,available
+Ammonia,amt,,,0,not in published gene table
