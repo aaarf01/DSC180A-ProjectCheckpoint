@@ -56,3 +56,6 @@ run.sh      runs everything in order
 - The SST preprocessing script is not public. SST gets the same steps as Θ′, without the 0-4 limit.
 - ONI is NOAA PSL's current version (ERSST v6); the paper used v5.
 - MATLAB `bootci` defaults to BCa intervals; we use percentile intervals.
+
+## AI and Human Contributions
+We used Claude (Opus 5.5) to assist with replication and coding. Team members reviewed and ran the code, compared outputs with the published results, and interpreted discrepancies. The team is responsible for the final code and conclusions.
