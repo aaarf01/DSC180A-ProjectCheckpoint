@@ -11,10 +11,9 @@ Claude assisted with paper replication and coding, including generating scripts 
 
 We used the original paper, the datasets used by the authors (listed at the end of the replicated paper), and their publicly available code as the basis for replication. Claude helped generate and revise scripts to process the data and reproduce the analyses and figures. After Claude generated a script, team members reviewed and ran the script. Output results (both numerical and images) were compared with the published results in the original paper, and discrepancies were discussed. Remaining differences and data availability limitations are documented in the report.
 Specifically, Claude uses generated the replication scripts for Figures 1 - 4 using the original paper, the authors’ processed datasets released on Zenodo, and their publicly available code. This included code for data processing, statistical analyses, and figure generation. The data includes:
-- Gridded satellite-derived nutrient stress scores (Θ′) and sea surface temperature, at 1° spatial resolution and 8-day intervals.
+- Gridded satellite-derived nutrient stress scores (Θ′; Dryad) and sea surface temperature (SST; Zenodo), at 1° spatial resolution and 8-day intervals from July 2002 to January 2022.
 - A table of 1,137 metagenomic samples containing sampling locations and dates, nutrient stress scores (Ω), Prochlorococcus core-gene coverage, and ship-based measurements.
-- Satellite Θ′ values matched to metagenomic samples across six spatial areas and 15 time windows.
-- NOAA Oceanic Niño Index (ONI) and Pacific Decadal Oscillation (PDO) index records.
+- Satellite Θ′ values matched to metagenomic samples across six spatial areas and 15 time windows (the single-pixel matchups were not used, because the authors' script loads the 1° file in their place).
 Claude assisted with data processing, statistical analyses, and figure generation. Follow-up prompts were used to revise the scripts, address errors, and investigate differences between reproduced and published results. Remaining discrepancies and data availability limitations are documented in the report.
 
 ## Prompt Log and Code Validation
